@@ -29,7 +29,6 @@ RAG poisoning and retrieval drift
 Supply-chain risks in AI pipelines
 
 In short:
-
 GenAI security is about securing systems where software behavior is decided by models, not just code.
 Roles You Can Grow Into (and What They Actually Do)
 1. AI / GenAI Security Engineer
